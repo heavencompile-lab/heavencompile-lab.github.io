@@ -229,31 +229,6 @@
     
     
     <entry>
-      <title>加速器迷思</title>
-      <link href="/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E5%8A%A0%E9%80%9F%E5%99%A8%E8%BF%B7%E6%80%9D/"/>
-      <url>/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E5%8A%A0%E9%80%9F%E5%99%A8%E8%BF%B7%E6%80%9D/</url>
-      
-        <content type="html"><![CDATA[<h1 style="text-align: center; color: #425AEF;">加速器迷思</h1><hr><h2 style="color: #FF7242;">🤔 迷思說明：為何感覺像加速？</h2><p>關於加速器，先給玩家好好說明！</p><h3 style="color: #4CAF50;">多重指令下的視覺暫留：</h3><p>當任何職業與任何變身，於走路時受到**多重指令**時，在對方視角皆會有加速的情況發生！</p><ul style="list-style-type: disc;">  <li>邊走路邊施法</li>  <li>邊施法邊攻擊</li>  <li>遭受集體攻擊</li>  <li>內掛時遭受攻擊卡頓</li></ul><hr><h2 style="color: #FF5722;">🔄 系統原理：畫面同步的影響</h2><p>由於系統在針對每一位的玩家畫面能夠同步，所以才會有類似加速的處理！</p><p style="font-weight: bold; font-size: 1.1em;">在您誤會對方有開啟加速器時，對方看您也是會有**爆衝加速的狀況**唷！</p><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
-      
-      
-      <categories>
-          
-          <category> 系統公告 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 系統公告 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>防外掛加速器及速度偵測說明</title>
       <link href="/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E9%98%B2%E5%A4%96%E6%8E%9B%E5%8A%A0%E9%80%9F%E5%99%A8%E5%8F%8A%E9%80%9F%E5%BA%A6%E5%81%B5%E6%B8%AC%E8%AA%AA%E6%98%8E/"/>
       <url>/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E9%98%B2%E5%A4%96%E6%8E%9B%E5%8A%A0%E9%80%9F%E5%99%A8%E5%8F%8A%E9%80%9F%E5%BA%A6%E5%81%B5%E6%B8%AC%E8%AA%AA%E6%98%8E/</url>
@@ -279,11 +254,11 @@
     
     
     <entry>
-      <title>外掛懲處條例</title>
-      <link href="/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E5%A4%96%E6%8E%9B%E6%87%B2%E8%99%95%E6%A2%9D%E4%BE%8B/"/>
-      <url>/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E5%A4%96%E6%8E%9B%E6%87%B2%E8%99%95%E6%A2%9D%E4%BE%8B/</url>
+      <title>加速器迷思</title>
+      <link href="/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E5%8A%A0%E9%80%9F%E5%99%A8%E8%BF%B7%E6%80%9D/"/>
+      <url>/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E5%8A%A0%E9%80%9F%E5%99%A8%E8%BF%B7%E6%80%9D/</url>
       
-        <content type="html"><![CDATA[<h1 style="text-align: center; color: #FF0000;">⚠️ 外掛懲處條例 ⚠️</h1><p style="text-align: center; font-size: 1.1em;">為了伺服器長久穩定及優良環境，將實施**嚴格**的懲罰辦法！</p><hr><h2 style="color: #FF5722;">🚫 第一章：違規判定與懲罰</h2><p>**違規定義：** 使用非法程式者 (外掛包含設定定時內掛打怪巡查沒回、寵物狂暴)，以及惡意抹黑伺服器者。</p><p><strong>【GM 裁決】</strong>一旦發現外掛不要再跟我說你人在顧，只要管理方判定你是外掛將**直接進行封鎖**！</p><hr><h2 style="color: #FF5722;">💰 第二章：階梯式解鎖罰款</h2><p>所有懲處皆為 **凍結帳號所有 IP**，【1 天後才可解鎖】。</p><table><thead><tr><th align="center">違規次數</th><th align="center">解鎖金額</th><th align="left">備註</th></tr></thead><tbody><tr><td align="center"><strong>第 一 次</strong></td><td align="center">贊助 <strong>5000</strong></td><td align="left">回收贊助幣</td></tr><tr><td align="center"><strong>第 二 次</strong></td><td align="center">贊助 <strong>10000</strong></td><td align="left">回收贊助幣</td></tr><tr><td align="center"><strong>第 三 次</strong></td><td align="center">贊助 <strong>15000</strong></td><td align="left">回收贊助幣</td></tr><tr><td align="center"><strong>第 四 次起</strong></td><td align="center">每次增加 <strong>10000</strong> 費用</td><td align="left">以此類推</td></tr></tbody></table><hr><h2 style="color: #FF0000;">🚨 第三章：永久封鎖與刪除</h2><ul style="list-style-type: disc;">  <li>**情節重大者**：將**永久封鎖**相關帳號及 IP，無法解鎖。</li>  <li>**閒置帳號**：超過 **14 天** 沒來解鎖，系統將**自動刪除**帳號角色。</li></ul><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+        <content type="html"><![CDATA[<h1 style="text-align: center; color: #425AEF;">加速器迷思</h1><hr><h2 style="color: #FF7242;">🤔 迷思說明：為何感覺像加速？</h2><p>關於加速器，先給玩家好好說明！</p><h3 style="color: #4CAF50;">多重指令下的視覺暫留：</h3><p>當任何職業與任何變身，於走路時受到**多重指令**時，在對方視角皆會有加速的情況發生！</p><ul style="list-style-type: disc;">  <li>邊走路邊施法</li>  <li>邊施法邊攻擊</li>  <li>遭受集體攻擊</li>  <li>內掛時遭受攻擊卡頓</li></ul><hr><h2 style="color: #FF5722;">🔄 系統原理：畫面同步的影響</h2><p>由於系統在針對每一位的玩家畫面能夠同步，所以才會有類似加速的處理！</p><p style="font-weight: bold; font-size: 1.1em;">在您誤會對方有開啟加速器時，對方看您也是會有**爆衝加速的狀況**唷！</p><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       <categories>
@@ -309,6 +284,31 @@
       <url>/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E9%81%8A%E6%88%B2%E7%AE%A1%E7%90%86%E8%A6%8F%E7%AB%A0/</url>
       
         <content type="html"><![CDATA[<h1 style="text-align: center; color: #425AEF;">遊戲管理規章</h1><hr><h2 style="color: #FF7242;">⛔ 第一章：管理團隊與言論規範</h2><ol>  <li>**玩家之間紛爭牽扯到 GM 團隊或是毀損伺服器名譽者**    <ul>      <li>遊戲管理團隊**絕不干預**玩家任何合乎規定的遊戲行為。</li>      <li>所以玩家之間的遊戲紛爭請勿牽扯到管理團隊。</li>      <li>我們**絕不會**幫任何一方勢力或個人介入遊戲。</li>    </ul>  </li>  <li>**不尊重 GM 團隊或言語上調侃、諷刺者**    <ul>      <li>嚴禁無理侮辱或責罵管理團隊以及挑釁管理團隊之行為。</li>      <li>嚴禁假冒管理團隊遊戲中的人物或取名類似管理團隊的名字。</li>      <li>違規者由管理團隊裁決是否要懲處**永久性封鎖帳號及 IP**。</li>    </ul>  </li>  <li>**禁止在任一頻道宣傳其它伺服器拉攏玩家不玩、跳服散播不利謠言**    <ul>      <li>破壞伺服器名聲，嚴禁在遊戲或論壇作出煸動玩家或發起動盪哄動、造謠等行為，任何方式影響伺服器。</li>      <li>嚴禁使用創造角色公告系統進行任何宣傳謾罵或毀損。</li>      <li>違者將查該分身之本尊，直接對本尊進行處理，**永久封鎖同 IP 帳號**。</li>    </ul>  </li>  <li>**在遊戲中介紹其他伺服器者**    <ul>      <li>遊戲中嚴禁在任何頻道宣傳其他伺服器或是拉攏煽動其他玩家不玩及跳服。</li>    </ul>  </li></ol><hr><h2 style="color: #FF7242;">🚫 第二章：破壞遊戲公平性</h2><ol start="5">  <li>**以非一般遊戲中會使用之手段阻擋其他玩家正常進行遊戲者**    <ul>      <li>遊戲中用伺服器設定漏洞或 Bug 加以圖利個人或他人者。</li>    </ul>  </li>  <li>**遊戲歸遊戲，嚴格禁止散播他人之真實姓名、手機、住址等個人資料**    <ul>      <li>嚴格禁止在任何頻道或交易群散播他人之真實姓名、手機、住址等個人資料，或是約人真人現場鬥毆等情事。</li>      <li>違者視情況處以**鎖定一~七天或永久停權之處分**。(需提供相關照片截圖再由本人出面至客服回報確認身分)</li>    </ul>  </li>  <li>**發現 Bug 不回報且利用 Bug 影響到其他玩家遊戲公平性進行遊戲者**    <ul>      <li>視情節大小評判如何封鎖。</li>    </ul>  </li>  <li>**蓄意欺騙 GM 者**    <ul>      <li>包含做假圖片、偽證。</li>    </ul>  </li></ol><hr><h2 style="color: #FF7242;">🚨 第三章：洗物與最終裁決</h2><ol start="9">  <li>**洗物品及盜帳號**    <ul>      <li>遊戲中利用伺服器設定漏洞或 Bug 加以圖利個人或他人者。</li>      <li>涉及盜竊他人帳號或幫忙轉移贓物者，除了給予該帳號懲處外，一並對相關有共犯行為的帳號連帶懲處。</li>      <li>管理團隊將追蹤回所有贓物並進行**無償回收**。</li>      <li>如果是向洗裝者購買物品，也將一並**無償回收**。</li>    </ul>  </li>  <li>**最終裁決**    <ul>      <li>違規不會單憑玩家投訴舉報便進行處罰，GM 會親自查核與評斷。</li>      <li>管理團隊皆可自行判斷是否違規以及做出處罰。</li>      <li>任何違規被罰後，如於論壇或遊戲搗亂者、玩家遊戲中違規，<span style="font-weight: bold; color: #FF7242;">無論是否贊助一視同仁</span>。</li>    </ul>  </li></ol><h2 style="text-align: center; color: #FF5722; border: 3px solid #FF5722; padding: 10px; margin-top: 30px;">📢 嚴重警告</h2><p style="text-align: center; font-size: 1.1em;">以上違反任一條一律鎖定 IP 帳號，**僅罰款才可解鎖**；絕無寬待、請玩家自重。</p><p style="text-align: center; font-style: italic;">罰款規則請至違規處罰規章查詢</p><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+      
+      
+      <categories>
+          
+          <category> 系統公告 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 系統公告 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>外掛懲處條例</title>
+      <link href="/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E5%A4%96%E6%8E%9B%E6%87%B2%E8%99%95%E6%A2%9D%E4%BE%8B/"/>
+      <url>/2025/08/24/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A/%E7%B3%BB%E7%B5%B1%E5%85%AC%E5%91%8A-%E5%A4%96%E6%8E%9B%E6%87%B2%E8%99%95%E6%A2%9D%E4%BE%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 style="text-align: center; color: #FF0000;">⚠️ 外掛懲處條例 ⚠️</h1><p style="text-align: center; font-size: 1.1em;">為了伺服器長久穩定及優良環境，將實施**嚴格**的懲罰辦法！</p><hr><h2 style="color: #FF5722;">🚫 第一章：違規判定與懲罰</h2><p>**違規定義：** 使用非法程式者 (外掛包含設定定時內掛打怪巡查沒回、寵物狂暴)，以及惡意抹黑伺服器者。</p><p><strong>【GM 裁決】</strong>一旦發現外掛不要再跟我說你人在顧，只要管理方判定你是外掛將**直接進行封鎖**！</p><hr><h2 style="color: #FF5722;">💰 第二章：階梯式解鎖罰款</h2><p>所有懲處皆為 **凍結帳號所有 IP**，【1 天後才可解鎖】。</p><table><thead><tr><th align="center">違規次數</th><th align="center">解鎖金額</th><th align="left">備註</th></tr></thead><tbody><tr><td align="center"><strong>第 一 次</strong></td><td align="center">贊助 <strong>5000</strong></td><td align="left">回收贊助幣</td></tr><tr><td align="center"><strong>第 二 次</strong></td><td align="center">贊助 <strong>10000</strong></td><td align="left">回收贊助幣</td></tr><tr><td align="center"><strong>第 三 次</strong></td><td align="center">贊助 <strong>15000</strong></td><td align="left">回收贊助幣</td></tr><tr><td align="center"><strong>第 四 次起</strong></td><td align="center">每次增加 <strong>10000</strong> 費用</td><td align="left">以此類推</td></tr></tbody></table><hr><h2 style="color: #FF0000;">🚨 第三章：永久封鎖與刪除</h2><ul style="list-style-type: disc;">  <li>**情節重大者**：將**永久封鎖**相關帳號及 IP，無法解鎖。</li>  <li>**閒置帳號**：超過 **14 天** 沒來解鎖，系統將**自動刪除**帳號角色。</li></ul><div class="video-container">[up主专用，视频内嵌代码贴在这]</div><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       <categories>
@@ -535,7 +535,7 @@
       <link href="/2025/08/12/%E6%87%B6%E4%BA%BA%E5%8C%85%E4%B8%8B%E8%BC%89%E5%B0%88%E5%8D%80/"/>
       <url>/2025/08/12/%E6%87%B6%E4%BA%BA%E5%8C%85%E4%B8%8B%E8%BC%89%E5%B0%88%E5%8D%80/</url>
       
-        <content type="html"><![CDATA[<p><strong>懶人包下載(開放代客下載)需登入google帳戶</strong><br>即日起開放預先下載，將同步開放代客下載！<br>由於系統不斷升級，考量部分玩家不會安裝<br>看到可以直接洽詢官方LINE@聯絡我們協助安裝唷～❤️</p><ul><li><p><a href="https://lin.ee/EebMoZ9">官方ＬＩＮＥ＠</a></p></li><li><p><a href="https://drive.google.com/file/d/12H47fygHIkSsaxHISkqncP5EpavkSIsv/view?usp=drive_link">懶人包載點１(7Z)</a></p></li><li><p><a href="https://drive.google.com/file/d/1PTTWAD5E3l1pwGJvdpY0lW-3T3MVBZVQ/view?usp=drive_link">懶人包載點２(RAR)</a></p></li><li><p><a href="https://drive.google.com/file/d/1vthd0QK0RPjFaUYoyELBDdStZ0mmIvrc/view?usp=sharing">懶人包載點３(ZIP)</a></p></li></ul><h1 style="text-align: center; color: #425AEF;">▶️ 遊戲啟動與登入教學</h1><hr><h2 style="color: #FF7242;">✅ 啟動前準備</h2><ul style="list-style-type: disc;">  <li>**關閉 Windows 即時防護** (避免防毒軟體誤判遊戲檔案)。</li>  <li>**登入 Google 帳戶** (若遊戲或外掛需依賴 Google 服務或瀏覽器元件)。</li></ul><hr><h2 style="color: #4CAF50;">🎮 遊戲啟動步驟</h2><ol>  <li>下載完成後，**解壓縮懶人包**。</li>  <li>點選解壓縮後資料夾內的 **`Login.exe`** 檔案開始遊戲。</li>  <li>開啟遊戲並選擇伺服器。</li>  <li>**第一次進入遊戲**，請直接輸入您想設定的**帳號與密碼**即可完成註冊與登入。</li></ol><hr><h2 style="color: #FF7242;">💡 額外建議</h2><p style="font-weight: bold;">一 建議將登入器建立**捷徑至桌面**，方便快速啟動遊戲 一</p><hr><p><strong>遠端程式官方載點：</strong></p><ul><li><a href="https://anydesk.com/zh-tw/downloads/windows">Anydesk</a></li><li><a href="https://awesun.aweray.com/en/olddown/windows">AweSun</a></li></ul><p><span style="color: red;">（下載後請用管理員身分執行，並提供ＩＤ串聯）</span></p><p><strong>遊戲閃退設定相容性</strong><br>懶人包閃退異常排除</p><p>請先照著以下步驟執行<br>1.在遊戲主程式上按右鍵內容<br>2.上方分頁點選相容性<br>3.勾選以相容性模式執行這個程式（部分電腦此步驟可省略）<br>4.下拉選單選取Windows7（部分電腦此步驟可省略）<br>5.按下變更高DPI設定<br>6.勾選覆寫高DPI縮放比例行為<br>7.按下確定後開啟天堂</p><p><img src="https://telegraph-image-1n0.pages.dev/file/AgACAgUAAyEGAAS3SV8sAAMJaNJgCI1YcEqRWT2IaRd5-OAK1QkAAs7HMRvaH5BWU4wbmisZzdABAAMCAAN4AAM2BA.png" alt="圖1"><br><img src="https://telegraph-image-1n0.pages.dev/file/AgACAgUAAyEGAAS3SV8sAAMKaNJgFYa3gSueg15xHK5Uz_vT0Y8AAs_HMRvaH5BWnRFfCsW48QABAQADAgADeAADNgQ.png" alt="圖2"></p><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
+        <content type="html"><![CDATA[<p><strong>懶人包下載(開放代客下載)需登入google帳戶</strong><br>即日起開放預先下載，將同步開放代客下載！<br>由於系統不斷升級，考量部分玩家不會安裝<br>看到可以直接洽詢官方LINE@聯絡我們協助安裝唷～❤️</p><ul><li><p><a href="https://lin.ee/EebMoZ9">官方ＬＩＮＥ＠</a></p></li><li><p><a href="https://drive.google.com/file/d/12H47fygHIkSsaxHISkqncP5EpavkSIsv/view?usp=drive_link">懶人包載點１(7Z)</a></p></li><li><p><a href="https://drive.google.com/file/d/1PTTWAD5E3l1pwGJvdpY0lW-3T3MVBZVQ/view?usp=drive_link">懶人包載點２(RAR)</a></p></li><li><p><a href="https://drive.google.com/file/d/1vthd0QK0RPjFaUYoyELBDdStZ0mmIvrc/view?usp=sharing">懶人包載點３(ZIP)</a></p></li><li><p><a href="https://drive.google.com/file/d/1fLPDd4-TBcgSXJYh4xLHPgZJaJV2hwkv/view?usp=sharing">懶人包載點４(7Z)</a></p></li><li><p><a href="https://drive.google.com/file/d/1olbaQEboNBug9cQSTAwZX4H3-vmJoDXW/view?usp=sharing">懶人包載點５(RAR)</a></p></li><li><p><a href="https://drive.google.com/file/d/1C-fXChu2ChNL_US8pU47RveEWx_e0kJO/view?usp=sharing">懶人包載點６(ZIP)</a></p></li></ul><h1 style="text-align: center; color: #425AEF;">▶️ 遊戲啟動與登入教學</h1><hr><h2 style="color: #FF7242;">✅ 啟動前準備</h2><ul style="list-style-type: disc;">  <li>**關閉 Windows 即時防護** (避免防毒軟體誤判遊戲檔案)。</li>  <li>**登入 Google 帳戶** (若遊戲或外掛需依賴 Google 服務或瀏覽器元件)。</li></ul><hr><h2 style="color: #4CAF50;">🎮 遊戲啟動步驟</h2><ol>  <li>下載完成後，**解壓縮懶人包**。</li>  <li>點選解壓縮後資料夾內的 **`Login.exe`** 檔案開始遊戲。</li>  <li>開啟遊戲並選擇伺服器。</li>  <li>**第一次進入遊戲**，請直接輸入您想設定的**帳號與密碼**即可完成註冊與登入。</li></ol><hr><h2 style="color: #FF7242;">💡 額外建議</h2><p style="font-weight: bold;">一 建議將登入器建立**捷徑至桌面**，方便快速啟動遊戲 一</p><hr><p><strong>遠端程式官方載點：</strong></p><ul><li><a href="https://anydesk.com/zh-tw/downloads/windows">Anydesk</a></li><li><a href="https://awesun.aweray.com/en/olddown/windows">AweSun</a></li></ul><p><span style="color: red;">（下載後請用管理員身分執行，並提供ＩＤ串聯）</span></p><p><strong>遊戲閃退設定相容性</strong><br>懶人包閃退異常排除</p><p>請先照著以下步驟執行<br>1.在遊戲主程式上按右鍵內容<br>2.上方分頁點選相容性<br>3.勾選以相容性模式執行這個程式（部分電腦此步驟可省略）<br>4.下拉選單選取Windows7（部分電腦此步驟可省略）<br>5.按下變更高DPI設定<br>6.勾選覆寫高DPI縮放比例行為<br>7.按下確定後開啟天堂</p><p><img src="https://telegraph-image-1n0.pages.dev/file/AgACAgUAAyEGAAS3SV8sAAMJaNJgCI1YcEqRWT2IaRd5-OAK1QkAAs7HMRvaH5BWU4wbmisZzdABAAMCAAN4AAM2BA.png" alt="圖1"><br><img src="https://telegraph-image-1n0.pages.dev/file/AgACAgUAAyEGAAS3SV8sAAMKaNJgFYa3gSueg15xHK5Uz_vT0Y8AAs_HMRvaH5BWnRFfCsW48QABAQADAgADeAADNgQ.png" alt="圖2"></p><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       
