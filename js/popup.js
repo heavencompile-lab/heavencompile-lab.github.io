@@ -83,13 +83,14 @@ document.addEventListener('DOMContentLoaded', function() {
     overlay.className = 'custom-popup-overlay';
     
     // --- 這裡可以自訂內容 ---
-    var imgSrc = "https://telegraph-image-1n0.pages.dev/file/AgACAgUAAyEGAAS3SV8sAAICX2lXPToksWcNVvDr1nbjJSqaERPAAAKFC2sbZkC4VsJzx_XAUAXjAQADAgADeQADOAQ.jpg"; 
+    var imgSrc = "https://telegraph-image-1n0.pages.dev/file/AgACAgUAAyEGAAS3SV8sAAICaWlgrPBUlD4Z2dvVXBw9RrU29wrAAAJJEGsbdqIAAVckfrp1Z98tvQEAAwIAA3cAAzgE.png"; 
     var titleText = "✨ 路西法天堂：墮落是為了更強的重生 ✨";
     var bodyText = "<p style='color: #D50000; font-weight: bold; font-size: 18px; margin-bottom: 10px;'>⚔️ 英雄集結，誰敢來戰？ ⚔️</p>" +
                "<hr>" +
                "<b>📅 伺服器列表：</b><br>" +
                "🚀 12/28 — <b>光明與黑暗</b><br>" +
-               "🔥 01/03 — <b>無盡伺服器-即將開服</b><br>" +
+               "🔥 01/03 — <b>無盡伺服器</b><br>" +
+               "⏳ 01/22 — <b>永恆伺服器-即將開服</b><br>" +
                "<hr>" +
                "本服為<b>長期定居伺服器</b>，每月預計新增 1-2 個分服導流玩家。<br>" +
                "我們致力於穩定營運，有任何問題歡迎隨時洽詢官方客服。" +
